@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aditya Yadav</h1>
 <h3 align="center">A newbie to frontend development</h3>
+<h3 align="center">An intermediate in C,C++ & Java</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adi3120&label=Profile%20views&color=0e75b6&style=flat" alt="adi3120" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adi3120&label=Pr
+<h3 align="center">A newbie to frontend development</h3>
+  ofile%20views&color=0e75b6&style=flat" alt="adi3120" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adi3120" alt="adi3120" /></a> </p>
 
