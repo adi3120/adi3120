@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adi3120" alt="adi3120" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript and Django**
 
-- 💬 Ask me about **C, C++, Java, Javascript, HTML, CSS**
+- 💬 Ask me about **C, C++, Java, Javascript, Python, HTML, CSS**
 
 - 📫 How to reach me **adinem1549@gmail.com**
 
