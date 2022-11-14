@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **baSHed2d**
 
-- 🌱 I’m currently learning **Problem solving with Datastructures and algorithms**
+- 🌱 I’m currently learning **Android development**
 
-- 👯 I’m looking to collaborate on **Django, Bash Scripts, C++ Projects and Web Projects**
+- 👯 I’m looking to collaborate on **Android apps, Django, Bash Scripts, C++ Projects and Web Projects**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/aditya-yadav-81236a202/](https://www.linkedin.com/in/aditya-yadav-81236a202/)
 
-- 💬 Ask me about **Computer graphics, Web developement, Computer Science**
+- 💬 Ask me about **Computer graphics,Android Developement, Web developement**
 
 - 📫 How to reach me **adityayadav15492002@gmail.com**
 
@@ -21,9 +21,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-yadav-81236a202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-yadav-81236a202/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc-eto8vyuwdf_yfmyzmsumq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc-eto8vyuwdf_yfmyzmsumq" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/adi_135_12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="adi_135_12" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aditya-yadav-81236a202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-yadav-81236a202/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/uc-eto8vyuwdf_yfmyzmsumq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc-eto8vyuwdf_yfmyzmsumq" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/adi_123_15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="adi_135_12" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
