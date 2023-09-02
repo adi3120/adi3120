@@ -5,9 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adi3120" alt="adi3120" /></a> </p>
 
-- 🔭 I’m currently working on **baSHed2d**
 
-- 🌱 I’m currently learning **Android development**
+- 🌱 I’m currently learning **SOLID, Design Patterns, System Design**
 
 - 👯 I’m looking to collaborate on **Android apps, Django, Bash Scripts, C++ Projects and Web Projects**
 
