@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adi3120" alt="adi3120" /></a> </p>
 
 
-- 🌱 I’m currently learning **MERN Stack,SOLID, Design Patterns, System Design**
+- 🌱 I’m currently learning **MERN Stack, SOLID, Design Patterns, System Design**
 
 - 👯 I’m looking to collaborate on **Android apps, Django, Bash Scripts, C++ Projects and Web Projects**
 
